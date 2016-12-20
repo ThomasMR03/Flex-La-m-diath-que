@@ -28,6 +28,6 @@ article {
 	display: flex;
 }
 
-p {
+h1, h2, a, p {
 	padding: 0 5px; /* Donne un peu d'espace entre le texte et l'image */
 }
